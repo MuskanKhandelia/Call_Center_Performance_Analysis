@@ -1,14 +1,26 @@
-# Customer Satisfaction Analysis
+# Call Center Performance Analysis - Power BI Project
+
+Welcome to the GitHub repository for the Call Center Performance Analysis Power BI project. This project is designed to provide insights into call center performance through the visualization of key performance indicators (KPIs) and analysis of various parameters affecting performance.
 
 ## Overview
 
-Customer Satisfaction Analysis is a project focused on evaluating the performance of customer service by developing measures, utilizing key performance indicators (KPIs), and designing a Power BI report. The project aims to provide a comprehensive assessment of call and agent performance, using various metrics to understand overall customer satisfaction and identify areas for improvement.
+The Power BI project focuses on displaying major KPIs such as total calls, answered calls, abandoned calls, resolved issues, and more. It utilizes different chart types including pie charts, clustered and stacked column and bar charts to visualize the data effectively.
 
 ## Features
 
-- **Comprehensive Performance Evaluation:** The project develops measures to accurately calculate call and agent sums, ensuring a comprehensive evaluation of performance.
-- **Key Performance Indicators (KPIs):** Utilizes important KPIs such as Overall Customer Satisfaction, Overall Calls Answered/Abandoned, Calls by Time, Average Speed of Answer, and Agent's Performance Quadrant to assess performance effectively.
-- **Power BI Report:** A Power BI report has been designed and implemented to visually represent all relevant KPIs and metrics. This report provides a user-friendly interface for stakeholders to gain comprehensive insights into performance trends and areas for improvement.
+- **Data Cleaning and Pre-processing:**
+  - Initial data cleaning and pre-processing were performed using Power Query to ensure data accuracy and consistency.
 
-![Call_Center_Analysis](https://github.com/MuskanKhandelia/Customer_Satisfaction_Analysis/assets/65664089/f7473240-fb12-4c8b-9b4d-bc097eaee541)
+- **Calculated Columns and Measures:**
+  - Calculated columns and measures were created using DAX (Data Analysis Expressions) to extract deeper insights from the data and properly display the information.
 
+- **Agent and Topic Analysis:**
+  - Analysis provided is based on different agents and topics to identify performance trends and areas for improvement.
+
+- **Trend Analysis:**
+  - Monthly and daily call trend analysis is presented to track call volume over time and identify patterns.
+
+- **Filter Pane:**
+  - A filter pane is incorporated into the dashboard, visible upon clicking the filter icon and can be closed by clicking the close icon. This allows users to filter data according to their requirements without occupying extra space on the dashboard.
+
+![image](https://github.com/MuskanKhandelia/Customer_Satisfaction_Analysis/assets/65664089/ea4a886f-c5d1-4573-97eb-7ca8e0c3c0d8)
