@@ -24,3 +24,6 @@ The Power BI project focuses on displaying major KPIs such as total calls, answe
   - A filter pane is incorporated into the dashboard, visible upon clicking the filter icon and can be closed by clicking the close icon. This allows users to filter data according to their requirements without occupying extra space on the dashboard.
 
 ![image](https://github.com/MuskanKhandelia/Customer_Satisfaction_Analysis/assets/65664089/ea4a886f-c5d1-4573-97eb-7ca8e0c3c0d8)
+
+![image](https://github.com/MuskanKhandelia/Call_Center_Performance_Analysis/assets/65664089/6c91ef82-45ea-4352-8ce9-849579358007)
+
